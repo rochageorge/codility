@@ -26,8 +26,6 @@ Codility-Training
  - [FrogRiverOne](https://github.com/rochageorge/codility/blob/main/notebooks/FrogRiverOne.ipynb)
 
 
-
-
 **Lesson 5 - Prefix Sums**
 
  - [PassingCars](https://github.com/rochageorge/codility/blob/main/notebooks/PassingCars.ipynb)
@@ -39,8 +37,8 @@ Codility-Training
 
  - [Distinct](https://github.com/rochageorge/codility/blob/main/notebooks/distinct.ipynb)
   - [MaxProductOfThree](https://github.com/rochageorge/codility/blob/main/notebooks/MaxProductOfThree.ipynb)
-<!-- - [Triangle]()
- - [NumberOfDiscIntersections]()
+ - [Triangle](https://github.com/rochageorge/codility/blob/main/notebooks/Triangle.ipynb)
+<!-- - [NumberOfDiscIntersections]()
 
 **Lesson 7 - Stacks and Queues**
 
