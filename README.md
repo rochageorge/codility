@@ -23,8 +23,8 @@ Codility-Training
 
  - [MissingInteger](https://github.com/rochageorge/codility/blob/main/notebooks/MissingSmallestPossible.ipynb)
  - [PermCheck](https://github.com/rochageorge/codility/blob/main/notebooks/CheckPermutation.ipynb)
-<!--   - [FrogRiverOne]()
- - [MaxCounters]()
+ - [FrogRiverOne](https://github.com/rochageorge/codility/blob/main/notebooks/FrogRiverOne.ipynb)
+<!--    - [MaxCounters]()
 
 
 
