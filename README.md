@@ -38,8 +38,8 @@ Codility-Training
 **Lesson 6 - Sorting**
 
  - [Distinct](https://github.com/rochageorge/codility/blob/main/notebooks/distinct.ipynb)
-<!--  - [MaxProductOfThree]()
- - [Triangle]()
+  - [MaxProductOfThree](https://github.com/rochageorge/codility/blob/main/notebooks/MaxProductOfThree.ipynb)
+<!-- - [Triangle]()
  - [NumberOfDiscIntersections]()
 
 **Lesson 7 - Stacks and Queues**
