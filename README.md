@@ -31,8 +31,8 @@ Codility-Training
 **Lesson 5 - Prefix Sums**
 
  - [PassingCars](https://github.com/rochageorge/codility/blob/main/notebooks/PassingCars.ipynb)
-<!-- - [CountDiv]()
- - [MinAvgTwoSlice]()
+ - [CountDiv](https://github.com/rochageorge/codility/blob/main/notebooks/CountDiv.ipynb)
+<!-- - [MinAvgTwoSlice]()
  - [GenomicRangeQuery]()
 
 **Lesson 6 - Sorting**
