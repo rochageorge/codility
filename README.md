@@ -24,14 +24,14 @@ Codility-Training
  - [MissingInteger](https://github.com/rochageorge/codility/blob/main/notebooks/MissingSmallestPossible.ipynb)
  - [PermCheck](https://github.com/rochageorge/codility/blob/main/notebooks/CheckPermutation.ipynb)
  - [FrogRiverOne](https://github.com/rochageorge/codility/blob/main/notebooks/FrogRiverOne.ipynb)
-<!--    - [MaxCounters]()
+
 
 
 
 **Lesson 5 - Prefix Sums**
 
- - [PassingCars]()
- - [CountDiv]()
+ - [PassingCars](https://github.com/rochageorge/codility/blob/main/notebooks/PassingCars.ipynb)
+<!-- - [CountDiv]()
  - [MinAvgTwoSlice]()
  - [GenomicRangeQuery]()
 
