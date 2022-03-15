@@ -22,8 +22,8 @@ Codility-Training
 **Lesson 4 - Counting Elements**
 
  - [MissingInteger](https://github.com/rochageorge/codility/blob/main/notebooks/MissingSmallestPossible.ipynb)
-<!--  - [PermCheck]()
- - [FrogRiverOne]()
+ - [PermCheck](https://github.com/rochageorge/codility/blob/main/notebooks/CheckPermutation.ipynb)
+<!--   - [FrogRiverOne]()
  - [MaxCounters]()
 
 
