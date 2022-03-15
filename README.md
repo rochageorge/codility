@@ -33,12 +33,12 @@ Codility-Training
  - [PassingCars](https://github.com/rochageorge/codility/blob/main/notebooks/PassingCars.ipynb)
  - [CountDiv](https://github.com/rochageorge/codility/blob/main/notebooks/CountDiv.ipynb)
  - [MinAvgTwoSlice](https://github.com/rochageorge/codility/blob/main/notebooks/MinAvgTwoSlice.ipynb)
-<!-- - [GenomicRangeQuery]()
+
 
 **Lesson 6 - Sorting**
 
- - [Distinct]()
- - [MaxProductOfThree]()
+ - [Distinct](https://github.com/rochageorge/codility/blob/main/notebooks/distinct.ipynb)
+<!--  - [MaxProductOfThree]()
  - [Triangle]()
  - [NumberOfDiscIntersections]()
 
