@@ -38,12 +38,12 @@ Codility-Training
  - [Distinct](https://github.com/rochageorge/codility/blob/main/notebooks/distinct.ipynb)
   - [MaxProductOfThree](https://github.com/rochageorge/codility/blob/main/notebooks/MaxProductOfThree.ipynb)
  - [Triangle](https://github.com/rochageorge/codility/blob/main/notebooks/Triangle.ipynb)
-<!-- - [NumberOfDiscIntersections]()
+
 
 **Lesson 7 - Stacks and Queues**
 
- - [Brackets]()
- - [Fish]()
+ - [Brackets](https://github.com/rochageorge/codility/blob/main/notebooks/Brackets.ipynb)
+<!--  - [Fish]()
  - [StoneWall]()
  - [Nesting]()
  
