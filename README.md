@@ -10,51 +10,51 @@ Codility-Training
 
 **Lesson 2 - Arrays**
 
- - [OddOccurrencesInArray](https://github.com/rochageorge/codility/blob/main/notebooks/OddRecurenceInArray.ipynb)
- -  [CyclicRotation](https://github.com/rochageorge/codility/blob/main/notebooks/CyclicRotation.ipynb)
+ - [OddOccurrencesInArray](https://github.com/rochageorge/codility/blob/main/notebooks/odd_recurence_in_array.ipynb)
+ -  [CyclicRotation](https://github.com/rochageorge/codility/blob/main/notebooks/cyclic_rotation.ipynb)
 
 **Lesson 3 - Time Complexity**
 
- - [PermMissingElem](https://github.com/rochageorge/codility/blob/main/notebooks/PermMissingElement.ipynb)
- - [FrogJmp](https://github.com/rochageorge/codility/blob/main/notebooks/FrogJumps.ipynb)
- - [TapeEquilibrium](https://github.com/rochageorge/codility/blob/main/notebooks/TapeEqui.ipynb)
+ - [PermMissingElem](https://github.com/rochageorge/codility/blob/main/notebooks/perm_missing_element.ipynb)
+ - [FrogJmp](https://github.com/rochageorge/codility/blob/main/notebooks/frog_jumps.ipynb)
+ - [TapeEquilibrium](https://github.com/rochageorge/codility/blob/main/notebooks/tape_equi.ipynb)
 
 **Lesson 4 - Counting Elements**
 
- - [MissingInteger](https://github.com/rochageorge/codility/blob/main/notebooks/MissingSmallestPossible.ipynb)
- - [PermCheck](https://github.com/rochageorge/codility/blob/main/notebooks/CheckPermutation.ipynb)
- - [FrogRiverOne](https://github.com/rochageorge/codility/blob/main/notebooks/FrogRiverOne.ipynb)
+ - [MissingInteger](https://github.com/rochageorge/codility/blob/main/notebooks/missing_smallest_possible.ipynb)
+ - [PermCheck](https://github.com/rochageorge/codility/blob/main/notebooks/check_permutation.ipynb)
+ - [FrogRiverOne](https://github.com/rochageorge/codility/blob/main/notebooks/frog_river_one.ipynb)
 
 
 **Lesson 5 - Prefix Sums**
 
- - [PassingCars](https://github.com/rochageorge/codility/blob/main/notebooks/PassingCars.ipynb)
- - [CountDiv](https://github.com/rochageorge/codility/blob/main/notebooks/CountDiv.ipynb)
- - [MinAvgTwoSlice](https://github.com/rochageorge/codility/blob/main/notebooks/MinAvgTwoSlice.ipynb)
+ - [PassingCars](https://github.com/rochageorge/codility/blob/main/notebooks/passing_cars.ipynb)
+ - [CountDiv](https://github.com/rochageorge/codility/blob/main/notebooks/count_div.ipynb)
+ - [MinAvgTwoSlice](https://github.com/rochageorge/codility/blob/main/notebooks/min_avg_two_slice.ipynb)
 
 
 **Lesson 6 - Sorting**
 
  - [Distinct](https://github.com/rochageorge/codility/blob/main/notebooks/distinct.ipynb)
-  - [MaxProductOfThree](https://github.com/rochageorge/codility/blob/main/notebooks/MaxProductOfThree.ipynb)
- - [Triangle](https://github.com/rochageorge/codility/blob/main/notebooks/Triangle.ipynb)
+  - [MaxProductOfThree](https://github.com/rochageorge/codility/blob/main/notebooks/max_product_of_three.ipynb)
+ - [Triangle](https://github.com/rochageorge/codility/blob/main/notebooks/triangle.ipynb)
 
 
 **Lesson 7 - Stacks and Queues**
 
- - [Brackets](https://github.com/rochageorge/codility/blob/main/notebooks/Brackets.ipynb)
-  - [Fish](https://github.com/rochageorge/codility/blob/main/notebooks/Fish.ipynb)
+ - [Brackets](https://github.com/rochageorge/codility/blob/main/notebooks/brackets.ipynb)
+  - [Fish](https://github.com/rochageorge/codility/blob/main/notebooks/fish.ipynb)
 
  
 **Lesson 8 - Leader**
 
- - [EquiLeader](https://github.com/rochageorge/codility/blob/main/notebooks/EquiLeader.ipynb)
-  - [Dominator](https://github.com/rochageorge/codility/blob/main/notebooks/Dominator.ipynb)
+ - [EquiLeader](https://github.com/rochageorge/codility/blob/main/notebooks/equi_leader.ipynb)
+  - [Dominator](https://github.com/rochageorge/codility/blob/main/notebooks/dominator.ipynb)
 
 **Lesson 9 - Maximum slice problem**
 
- - [MaxSliceSum](https://github.com/rochageorge/codility/blob/main/notebooks/MaxSliceSum.ipynb)
- - [MaxProfit](https://github.com/rochageorge/codility/blob/main/notebooks/MAxProfit.ipynb)
+ - [MaxSliceSum](https://github.com/rochageorge/codility/blob/main/notebooks/max_slice_sum.ipynb)
+ - [MaxProfit](https://github.com/rochageorge/codility/blob/main/notebooks/max_Profit.ipynb)
 <!-- - [MaxDoubleSliceSum]()
 
 **Lesson 10 - Prime and composite numbers**
