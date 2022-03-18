@@ -54,8 +54,8 @@ Codility-Training
 **Lesson 9 - Maximum slice problem**
 
  - [MaxSliceSum](https://github.com/rochageorge/codility/blob/main/notebooks/MaxSliceSum.ipynb)
-<!-- - [MaxProfit]()
- - [MaxDoubleSliceSum]()
+ - [MaxProfit](https://github.com/rochageorge/codility/blob/main/notebooks/MAxProfit.ipynb)
+<!-- - [MaxDoubleSliceSum]()
 
 **Lesson 10 - Prime and composite numbers**
 
