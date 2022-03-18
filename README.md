@@ -6,7 +6,7 @@ Codility-Training
 
 **Lesson 1 - Iterations**
 
- - [BinaryGap](https://github.com/rochageorge/codility/blob/main/notebooks/BinaryGap.ipynb)
+ - [BinaryGap](https://github.com/rochageorge/codility/blob/main/notebooks/binary_gap.ipynb)
 
 **Lesson 2 - Arrays**
 
