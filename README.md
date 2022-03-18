@@ -43,8 +43,8 @@ Codility-Training
 **Lesson 7 - Stacks and Queues**
 
  - [Brackets](https://github.com/rochageorge/codility/blob/main/notebooks/Brackets.ipynb)
-<!--  - [Fish]()
- - [StoneWall]()
+  - [Fish](https://github.com/rochageorge/codility/blob/main/notebooks/Fish.ipynb)
+<!-- - [StoneWall]()
  - [Nesting]()
  
 **Lesson 8 - Leader**
