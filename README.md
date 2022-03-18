@@ -49,11 +49,11 @@ Codility-Training
 **Lesson 8 - Leader**
 
  - [EquiLeader](https://github.com/rochageorge/codility/blob/main/notebooks/EquiLeader.ipynb)
-<!--  - [Dominator]()
+  - [Dominator](https://github.com/rochageorge/codility/blob/main/notebooks/Dominator.ipynb)
 
 **Lesson 9 - Maximum slice problem**
 
- - [MaxSliceSum]()
+<!-- - [MaxSliceSum]()
  - [MaxProfit]()
  - [MaxDoubleSliceSum]()
 
