@@ -55,11 +55,11 @@ Codility-Training
 
  - [MaxSliceSum](https://github.com/rochageorge/codility/blob/main/notebooks/max_slice_sum.ipynb)
  - [MaxProfit](https://github.com/rochageorge/codility/blob/main/notebooks/max_profit.ipynb)
-<!-- - [MaxDoubleSliceSum]()
+ - [MaxDoubleSliceSum](https://github.com/rochageorge/codility/blob/main/notebooks/max_double_slice_sum.ipynb)
 
 **Lesson 10 - Prime and composite numbers**
 
- - [MinPerimeterRectangle]()
+<!-- - [MinPerimeterRectangle]()
  - [CountFactors]()
  - [Peaks]()
  - [Flags]()
