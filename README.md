@@ -59,8 +59,8 @@ Codility-Training
 
 **Lesson 10 - Prime and composite numbers**
 
-<!-- - [MinPerimeterRectangle](https://github.com/rochageorge/codility/blob/main/notebooks/.ipynb)
- - [CountFactors](https://github.com/rochageorge/codility/blob/main/notebooks/.ipynb)
+ - [MinPerimeterRectangle](https://github.com/rochageorge/codility/blob/main/notebooks/min_perimeter_rectangle.ipynb)
+<!-- - [CountFactors](https://github.com/rochageorge/codility/blob/main/notebooks/.ipynb)
  - [Peaks](https://github.com/rochageorge/codility/blob/main/notebooks/.ipynb)
  - [Flags](https://github.com/rochageorge/codility/blob/main/notebooks/.ipynb)
 
