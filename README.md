@@ -59,43 +59,43 @@ Codility-Training
 
 **Lesson 10 - Prime and composite numbers**
 
-<!-- - [MinPerimeterRectangle]()
- - [CountFactors]()
- - [Peaks]()
- - [Flags]()
+<!-- - [MinPerimeterRectangle](https://github.com/rochageorge/codility/blob/main/notebooks/.ipynb)
+ - [CountFactors](https://github.com/rochageorge/codility/blob/main/notebooks/.ipynb)
+ - [Peaks](https://github.com/rochageorge/codility/blob/main/notebooks/.ipynb)
+ - [Flags](https://github.com/rochageorge/codility/blob/main/notebooks/.ipynb)
 
 **Lesson 11 - Sieve of Eratosthenes**
 
- - [CountNotDivisible]()
+ - [CountNotDivisible](https://github.com/rochageorge/codility/blob/main/notebooks/.ipynb)
 
 **Lesson 12 - Euclidean algorithm**
 
- - [ChocolatesByNumbers]()
- - [CommonPrimeDivisors]()
+ - [ChocolatesByNumbers](https://github.com/rochageorge/codility/blob/main/notebooks/.ipynb)
+ - [CommonPrimeDivisors](https://github.com/rochageorge/codility/blob/main/notebooks/.ipynb)
 
 **Lesson 13 - Fibonacci numbers**
 
- - [FibFrog]()
- - [Ladder]()
+ - [FibFrog](https://github.com/rochageorge/codility/blob/main/notebooks/.ipynb)
+ - [Ladder](https://github.com/rochageorge/codility/blob/main/notebooks/.ipynb)
 
 **Lesson 14 - Binary search algorithm**
 
- - [MinMaxDivision]()
- - [NailingPlanks]()
+ - [MinMaxDivision](https://github.com/rochageorge/codility/blob/main/notebooks/.ipynb)
+ - [NailingPlanks](https://github.com/rochageorge/codility/blob/main/notebooks/.ipynb)
 
 **Lesson 15 - Caterpillar method**
 
- - [AbsDistinct]()
- - [CountDistinctSlices]()
- - [CountTriangles]()
- - [MinAbsSumOfTwo]()
+ - [AbsDistinct](https://github.com/rochageorge/codility/blob/main/notebooks/.ipynb)
+ - [CountDistinctSlices](https://github.com/rochageorge/codility/blob/main/notebooks/.ipynb)
+ - [CountTriangles](https://github.com/rochageorge/codility/blob/main/notebooks/.ipynb)
+ - [MinAbsSumOfTwo](https://github.com/rochageorge/codility/blob/main/notebooks/.ipynb)
 
 **Lesson 16 - Greedy algorithms**
 
- - [MaxNonoverlappingSegments]()
- - [TieRopes]()
+ - [MaxNonoverlappingSegments](https://github.com/rochageorge/codility/blob/main/notebooks/.ipynb)
+ - [TieRopes](https://github.com/rochageorge/codility/blob/main/notebooks/.ipynb)
 
 **Lesson 17 - Dynamic programming**
 
- - [MinAbsSum]()
- - [NumberSolitaire]() -->
+ - [MinAbsSum](https://github.com/rochageorge/codility/blob/main/notebooks/.ipynb)
+ - [NumberSolitaire](https://github.com/rochageorge/codility/blob/main/notebooks/.ipynb) -->
