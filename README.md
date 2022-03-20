@@ -70,8 +70,8 @@ Codility-Training
 
 **Lesson 12 - Euclidean algorithm**
 
-<!-- - [ChocolatesByNumbers](https://github.com/rochageorge/codility/blob/main/notebooks/.ipynb)
- - [CommonPrimeDivisors](https://github.com/rochageorge/codility/blob/main/notebooks/.ipynb)
+ - [ChocolatesByNumbers](https://github.com/rochageorge/codility/blob/main/notebooks/chocolate_by_numbers.ipynb)
+<!-- - [CommonPrimeDivisors](https://github.com/rochageorge/codility/blob/main/notebooks/.ipynb)
 
 **Lesson 13 - Fibonacci numbers**
 
