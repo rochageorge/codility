@@ -66,11 +66,11 @@ Codility-Training
 
 **Lesson 11 - Sieve of Eratosthenes**
 
-<!-- - [CountNotDivisible](https://github.com/rochageorge/codility/blob/main/notebooks/.ipynb)
+ - [CountNotDivisible](https://github.com/rochageorge/codility/blob/main/notebooks/count_not_divisisors.ipynb)
 
 **Lesson 12 - Euclidean algorithm**
 
- - [ChocolatesByNumbers](https://github.com/rochageorge/codility/blob/main/notebooks/.ipynb)
+<!-- - [ChocolatesByNumbers](https://github.com/rochageorge/codility/blob/main/notebooks/.ipynb)
  - [CommonPrimeDivisors](https://github.com/rochageorge/codility/blob/main/notebooks/.ipynb)
 
 **Lesson 13 - Fibonacci numbers**
