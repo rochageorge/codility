@@ -62,11 +62,11 @@ Codility-Training
  - [MinPerimeterRectangle](https://github.com/rochageorge/codility/blob/main/notebooks/min_perimeter_rectangle.ipynb)
  - [CountFactors](https://github.com/rochageorge/codility/blob/main/notebooks/count_factors.ipynb)
  - [Peaks](https://github.com/rochageorge/codility/blob/main/notebooks/peaks.ipynb)
-<!-- - [Flags](https://github.com/rochageorge/codility/blob/main/notebooks/.ipynb)
+ - [Flags](https://github.com/rochageorge/codility/blob/main/notebooks/flags.ipynb)
 
 **Lesson 11 - Sieve of Eratosthenes**
 
- - [CountNotDivisible](https://github.com/rochageorge/codility/blob/main/notebooks/.ipynb)
+<!-- - [CountNotDivisible](https://github.com/rochageorge/codility/blob/main/notebooks/.ipynb)
 
 **Lesson 12 - Euclidean algorithm**
 
